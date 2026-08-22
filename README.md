@@ -1,0 +1,1 @@
+Um blog desenvolvido em PHP, HTML e CSS, inspirado na Hatsune Miku e na música "World is Mine". O projeto foi criado com o objetivo de praticar desenvolvimento web, principalmente a integração entre PHP, HTML, CSS e banco de dados mocado.
